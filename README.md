@@ -163,7 +163,6 @@ the left/right keys.
 6. Hold Alt+Shift to move an existing target while keeping it on the surface
 7. Select Esc key or right click on the screen and select Done to exit the Create Targets on Surface mode
 8. ![image](https://user-images.githubusercontent.com/36288975/173729366-e0d49a75-454d-4366-b7f5-1e02de369d1d.png)
-
 1. Select all the targets created on the surface and right click
 Tip: Hold the Ctrl key to select multiple targets. Alternatively, select the Target 3, hold shift, then select Target
 10 to select all targets between Target 3 and Target 10.
@@ -174,9 +173,6 @@ movement will be a joint move and following movements will be linear.
 5. Select F2 to rename the program to PaintTop
 6. Double click the PaintTop program to see the simulation moving along the targets
 7. If required, reorder the movements by dragging the move instructions inside the program
-
-
-![image](https://user-images.githubusercontent.com/36288975/173729404-a7b7ffef-3366-434b-9cc4-8246e93fec28.png)
 Add a Retract Program
 Similar to the previous operations:
 1. With the robot placed at the last target, move the robot upwards by increasing the Z coordinate of the

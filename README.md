@@ -49,7 +49,7 @@ Tip: Select ToolsOptionsDisplayDisplay XYZ axis letters to see the Coor
 4. Select ViewMake reference frames smaller (-) to decrease the size of the reference frames
 5. Select ViewShow/Hide text on screen (/) to show or hide the text on the screen
 6. Optionally, rename any reference frame or object in the tree by selecting F2
-![image](https://user-images.githubusercontent.com/36288975/173728997-ce0d0fa7-db74-4b07-b8fc-908a803bb478.png)
+
 Import 3D objects
 RoboDK supports most standard 3D formats such as STL, STEP (or STP) and IGES (or IGS) formats. Other
 formats such as WRML, 3DS or OBJ are also supported (STEP and IGES are not supported on Mac and Linux
@@ -121,7 +121,7 @@ In this example, the robot joint coordinates used for the first target are: [-15
 deg. These values can be copied from this text and pasted in the Joint axis jog of the robot panel
 using the corresponding button.
 
-![image](https://user-images.githubusercontent.com/36288975/173729300-681d96a6-c064-4e23-a7af-c0230765725c.png)
+
 7. Rename the first target as Home by pressing F2. Alternatively, select ToolsRename item.
 8. Move the robot closer to one edge of the part (by dragging the tool using the Alt key, entering
 coordinates or jogging the axis manually)
@@ -149,7 +149,6 @@ Note: If no target is selected, a new target will be created at the same locatio
 6. Select Program Move Joint Instruction again
 Double click the ApproachMove program and it will execute the program simulation. The simulation bar and
 an estimated cycle time will be displayed.   
-![image](https://user-images.githubusercontent.com/36288975/173729348-a700964f-505d-4935-b4d9-a5e95aa32d7a.png)
 
 Create Targets on Surface
 The Create Targets on Surface feature, is useful for applications such as painting or inspection:

@@ -73,7 +73,7 @@ the coordinates manually and/or by moving the TCP holding the ALT+Shift key as s
 1. Hold ALT+Shift or select the highlighted button from the toolbar
 2. Select the light blue plane (XZ plane of the TCP) and drag the TCP approximately towards the surface
 of the spray gun, as shown in the next image
-![image](https://user-images.githubusercontent.com/36288975/173729087-9e7ab693-7065-43ca-971b-de7952856d97.png)
+
 ![image](https://user-images.githubusercontent.com/36288975/173729098-1b3986f5-f4eb-4de3-90de-406aef711563.png)
 By default, RoboDK will define the TCP at the position [X,Y,Z]=[0,0,200] mm. This can be changed by entering
 the coordinates manually and/or by moving the TCP holding the ALT+Shift key as shown in the next image:
